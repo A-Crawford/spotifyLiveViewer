@@ -1,0 +1,44 @@
+styles.css
+html {
+    pad: 0px;
+}
+
+body {
+    background-color: maroon;
+}
+
+.white-heading {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 100px;
+}
+
+.outer-center {
+    float: right;
+    right: 50%;
+    position: absolute;
+    top: 75%;
+}
+.inner-center {
+    float: right;
+    right: -50%;
+    position: relative;
+}
+.clear {
+    clear: both;
+}
+
+.outer-image {
+    float: right;
+    right: 50%;
+    position: absolute;
+    top: 10%;
+    left: 33.4%;
+}
+
+.image-position {
+    background-image: url(./FontainesDC_SkintyFia_DSP_3000x3000.jpeg);
+    background-repeat: no-repeat;
+    width: 3500px;
+    height: 3500px;
+}
